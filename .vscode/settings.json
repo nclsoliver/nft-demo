@@ -1,5 +1,0 @@
-{
-    "solidity.remappings": [
-        "@openzeppelin/=/Users/john/workspace/myproject/smart_contract/node_modules/@openzeppelin"
-    ]
-}
